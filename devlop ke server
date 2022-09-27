@@ -1,5 +1,5 @@
 
-Update dan Insatall kebutuhan development
+#Update dan Insatall kebutuhan development
 sudo apt-get update
 sudo apt-get install python3-pip python3-dev nginx
 Upgrade pip & install virtualenv
